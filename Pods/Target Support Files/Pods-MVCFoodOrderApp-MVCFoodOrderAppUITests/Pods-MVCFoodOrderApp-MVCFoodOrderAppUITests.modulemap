@@ -1,0 +1,6 @@
+framework module Pods_MVCFoodOrderApp_MVCFoodOrderAppUITests {
+  umbrella header "Pods-MVCFoodOrderApp-MVCFoodOrderAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
